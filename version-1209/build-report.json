@@ -1,0 +1,20 @@
+{
+  "parsed_movies": 2000,
+  "detail_pages": 2000,
+  "bucketed_movies": 2000,
+  "all_page_movie_cards": 2000,
+  "category_counts": {
+    "日韩新片": 250,
+    "华语精选": 250,
+    "欧美电影": 250,
+    "悬疑惊悚": 250,
+    "动作犯罪": 250,
+    "剧情爱情": 250,
+    "喜剧科幻": 250,
+    "热门剧集": 250
+  },
+  "html_files": 2013,
+  "baidu_missing": [],
+  "logo": "日韩高清电影",
+  "cover_rule": "X = ((N - 1) % 150) + 1"
+}
